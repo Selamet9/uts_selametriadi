@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewKotlin</string>
+    <string name="pemainterkaya_name">Pemain Terkaya Nama</string>
+    <string name="description">Description</string>
+</resources>
